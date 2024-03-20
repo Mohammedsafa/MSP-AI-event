@@ -16,14 +16,14 @@ With the data prepped, AI shines a light on hidden patterns. Humans then step in
 
 #### To illustrate the power of AI in data analysis, let's explore some real-world projects:
 
-- Project 1: Indian Premier League [(https://github.com/Mohammedsafa/IPL)] , This project delves into the world of cricket by analyzing datasets from the Indian Premier League (IPL). It uses Python libraries like Pandas, NumPy, Matplotlib, and Seaborn to achieve several goals:
+#### Project 1: Indian Premier League [(https://github.com/Mohammedsafa/IPL)] , This project delves into the world of cricket by analyzing datasets from the Indian Premier League (IPL). It uses Python libraries like Pandas, NumPy, Matplotlib, and Seaborn to achieve several goals:
 
   - Identifying Champions: Uncover the most successful teams and players throughout IPL history.
   - Winning Strategies: Explore factors that influence a team's win or loss, providing valuable insights for fans and analysts.
   - Visualizing Performance: Create interactive dashboards to analyze the performance of batting and bowling teams in detail.
   - Data-Driven Recommendations: Utilize insights to recommend players and teams for companies to endorse their products, leveraging the power of data and cricket fandom.
 
-- Project 2: Water Potability prediction [(https://github.com/Mohammedsafa/water-potability)] This project tackles the crucial issue of water potability. Clean water is essential for life, but factors like pollution and contamination can compromise its safety. This project utilizes machine learning to build a model that predicts whether water samples are suitable for drinking.
+#### Project 2: Water Potability prediction [(https://github.com/Mohammedsafa/water-potability)] This project tackles the crucial issue of water potability. Clean water is essential for life, but factors like pollution and contamination can compromise its safety. This project utilizes machine learning to build a model that predicts whether water samples are suitable for drinking.
 ##### Leveraging a dataset named "water_potability" containing water quality metrics from 3276 water sources, the project employs machine learning techniques for various stages:
 
   - Unveiling the Data: Exploratory data analysis delves into the dataset to understand its characteristics.
@@ -32,7 +32,7 @@ With the data prepped, AI shines a light on hidden patterns. Humans then step in
   - Model Evaluation: The project rigorously evaluates and compares the performance of these models to select the most accurate one.
   - Predicting the Future: The final model can then be used to predict the potability of new water samples, safeguarding public health.
 
-- Project 3: Spotify-recommendation-system [(https://github.com/Mohammedsafa/Spotify-recommendation-system)] The goal of this analysis is to create a dance-themed playlist for the company's summer party using data-driven insights. The playlist will be curated based on the 'danceability' feature of the songs, which is available in the Spotify dataset. The analysis will involve the following steps:
+#### Project 3: Spotify-recommendation-system [(https://github.com/Mohammedsafa/Spotify-recommendation-system)] The goal of this analysis is to create a dance-themed playlist for the company's summer party using data-driven insights. The playlist will be curated based on the 'danceability' feature of the songs, which is available in the Spotify dataset. The analysis will involve the following steps:
 
   - Exploratory Data Analysis: Use descriptive statistics and data visualization techniques to understand the distribution of ‘danceability’ and its relationship with other audio features in the dataset. Based on our analysis, we have identified the following criteria for song selection:
 
@@ -46,7 +46,7 @@ With the data prepped, AI shines a light on hidden patterns. Humans then step in
 
 ##### The ultimate goal is to leverage data analysis and machine learning techniques to make informed decisions about song selection, ensuring that the playlist sets the right mood for a fun and energetic summer party.
 
-Project 4: MegaStore-Profit-Prediction [(https://github.com/mohamedhazem24/MegaStore-Profit-Prediction)] This project dives into the world of retail, focusing on predicting profits for a company called "The Megastore." By leveraging machine learning models, the project aims to unlock valuable insights for business decisions.
+#### Project 4: MegaStore-Profit-Prediction [(https://github.com/mohamedhazem24/MegaStore-Profit-Prediction)] This project dives into the world of retail, focusing on predicting profits for a company called "The Megastore." By leveraging machine learning models, the project aims to unlock valuable insights for business decisions.
 ##### The project utilizes a dataset specific to The Megastore, and through machine learning techniques, it:
 
   - Forecasts Financial Performance: The project builds a model to predict future profits for The Megastore.
