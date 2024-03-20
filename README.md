@@ -36,10 +36,10 @@ With the data prepped, AI shines a light on hidden patterns. Humans then step in
 
   - Exploratory Data Analysis: Use descriptive statistics and data visualization techniques to understand the distribution of ‘danceability’ and its relationship with other audio features in the dataset. Based on our analysis, we have identified the following criteria for song selection:
 
-i. Danceability: Select songs with a danceability score higher than 0.626, which corresponds to the upper 40% of the data.
-ii. Popularity: Choose songs with a popularity score higher than 50, which corresponds to the upper 25% of the data.
-iii. Energy: Include songs with an energy score higher than 0.68, which corresponds to the median value.
-iv. Valence: Select songs with a valence score higher than 0.549, which corresponds to the upper 40% of the data.
+        - Danceability: Select songs with a danceability score higher than 0.626, which corresponds to the upper 40% of the data.
+        - Popularity: Choose songs with a popularity score higher than 50, which corresponds to the upper 25% of the data.
+        - Energy: Include songs with an energy score higher than 0.68, which corresponds to the median value.
+        - Valence: Select songs with a valence score higher than 0.549, which corresponds to the upper 40% of the data.
   - Predictive Modeling: Develop a machine learning model that predicts a song’s ‘danceability’ based on its audio features. This will involve preparing the data, selecting a model, training the model, and evaluating its performance.
 
   - Playlist Creation: Apply the predictive model to the Spotify dataset to score each song by its predicted ‘danceability’. The top 50 songs according to these scores will be selected for the dance party playlist.
